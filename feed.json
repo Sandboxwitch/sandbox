@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sea Green",
+    "description": "",
+    "home_page_url": "https://sandboxwitch.github.io/sandbox",
+    "feed_url": "https://sandboxwitch.github.io/sandbox/feed.json",
+    "user_comment": "",
+    "icon": "https://sandboxwitch.github.io/sandbox/media/website/download20211102152758.png",
+    "author": {
+        "name": "Oriahna"
+    },
+    "items": [
+        {
+            "id": "https://sandboxwitch.github.io/sandbox/assistive-technology-in-your-community/",
+            "url": "https://sandboxwitch.github.io/sandbox/assistive-technology-in-your-community/",
+            "title": "Assistive Technology in your Community",
+            "summary": "<p class=\"align-center\">Click beneath the Read More line to view this video essay. Autoplay is disabled.</p>\n<p class=\"align-center\">Discription: Video content is a recorded slideshow presentation with white text on dark gray backgrounds. Video was designed to be largely photosafe and accessable, but please proceed with caution if you have photosensitivity. Click here for a video transcript.</p>\n",
+            "content_html": "<p class=\"align-center\">Click beneath the Read More line to view this video essay. Autoplay is disabled.</p>\n<p class=\"align-center\">Discription: Video content is a recorded slideshow presentation with white text on dark gray backgrounds. Video was designed to be largely photosafe and accessable, but please proceed with caution if you have photosensitivity. Click here for a video transcript.</p>\n\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"692\" height=\"388\" style=\"width: 692px; height: 388px;\" src=\"https://www.youtube.com/embed/FqK80DRovKc?si=xHgEvO5KeqRJrsQY\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "author": {
+                "name": "Oriahna"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-26T14:33:20-07:00",
+            "date_modified": "2025-05-26T14:33:20-07:00"
+        }
+    ]
+}

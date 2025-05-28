@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Sea Green</title>
+    <link href="https://sandboxwitch.github.io/sandbox/feed.xml" rel="self" />
+    <link href="https://sandboxwitch.github.io/sandbox" />
+    <updated>2025-05-26T14:33:20-07:00</updated>
+    <author>
+        <name>Oriahna</name>
+    </author>
+    <id>https://sandboxwitch.github.io/sandbox</id>
+
+    <entry>
+        <title>Assistive Technology in your Community</title>
+        <author>
+            <name>Oriahna</name>
+        </author>
+        <link href="https://sandboxwitch.github.io/sandbox/assistive-technology-in-your-community/"/>
+        <id>https://sandboxwitch.github.io/sandbox/assistive-technology-in-your-community/</id>
+
+        <updated>2025-05-26T14:33:20-07:00</updated>
+            <summary>
+                <![CDATA[
+                    <p class="align-center">Click beneath the Read More line to view this video essay. Autoplay is disabled.</p>
+<p class="align-center">Discription: Video content is a recorded slideshow presentation with white text on dark gray backgrounds. Video was designed to be largely photosafe and accessable, but please proceed with caution if you have photosensitivity. Click here for a video transcript.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">Click beneath the Read More line to view this video essay. Autoplay is disabled.</p>
+<p class="align-center">Discription: Video content is a recorded slideshow presentation with white text on dark gray backgrounds. Video was designed to be largely photosafe and accessable, but please proceed with caution if you have photosensitivity. Click here for a video transcript.</p>
+
+<div class="post__iframe"><iframe loading="lazy" width="692" height="388" style="width: 692px; height: 388px;" src="https://www.youtube.com/embed/FqK80DRovKc?si=xHgEvO5KeqRJrsQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
+</feed>

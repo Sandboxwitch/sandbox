@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sandboxwitch.github.io/sandbox/sitemap.xml
